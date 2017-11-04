@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-   // <title>My Test Page</title>
+  My Test Page
   </head>
   <body>
     <p>中文 
